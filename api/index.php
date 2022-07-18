@@ -1,7 +1,7 @@
 <?php
 
 // Base URL of the website, without trailing slash.
-$base_url = 'http://n.gwozai.com';
+$base_url = 'https://note-php.vercel.app';
 
 // Path to the directory to save the notes in, without trailing slash.
 // Should be outside of the document root, if possible.
